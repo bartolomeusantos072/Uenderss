@@ -13,6 +13,10 @@
   <a href="https://linkedin.com/in/uenders2021" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uenders2021" height="30" width="40" />
   </a>
+  <a href="mailto:meajudabarto@gmail.com.br?subject=Proposta vinda do GitHub">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="uenders2021" height="40" width="40" />
+  </a>
+
 </p>
 
 ---
