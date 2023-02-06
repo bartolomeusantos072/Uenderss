@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Bartolomeu, mas pode me chamar de Barto!</h1>
-<h3 align="center">Sou um Desenvolvedor Web Full-Stack e bacharelando de Ciência da Computação pela IF Sudeste MG.</h3>
+<h3 align="center">Sou um Desenvolvedor Web Full-Stack e bacharel de Ciência da Computação pela IF Sudeste MG.</h3>
 
 
 - 🔭  Gosto de aprender coisas novas, principalmente sobre tecnologia, programação e metodologia de aprendizagem faceis. 
