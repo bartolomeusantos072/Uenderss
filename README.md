@@ -1,10 +1,10 @@
 <h1 align="center">Olá 👋, sou o Bartolomeu, mas pode me chamar de Barto!</h1>
-<h3 align="center">Sou um Desenvolvedor Web Full-Stack pela Driven e bacharel de Ciência da Computação  IF Sudeste MG.</h3>
+<h3 align="center">Sou um Desenvolvedor Web Full-Stack pela Driven Education e bacharel de Ciência da Computação  IF Sudeste MG.</h3>
 
 
 - 🔭  Gosto de aprender coisas novas, principalmente sobre tecnologia, programação e metodologia de aprendizagem faceis. 
 
-- 🎈  Curiosidade:Já fiz uma revistinha em quadrinhos.
+- 🎈  Curiosidade:Já fiz uma revistinha em quadrinhos quando criança.
 
 - 🎨  Hobbies: Assistir filme e Tocar violão.
 
